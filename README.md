@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Malhotra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif">
+
 - 🌱 I’m currently learning **serverless backends, aws and next**
 
 - 💬 Ask me about **mern stack, react, javascript, typescript, postgres, prisma, sql, serverless backends**
