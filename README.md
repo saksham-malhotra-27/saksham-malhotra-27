@@ -10,14 +10,11 @@
 - ⚡ Fun fact **I read somewhere written "I am passionate about technology, innovation and big challenging tasks on my to-do list" and that got me interested in tech so deeply.**
 
 <h3 align="left">Projects</h3>
+
 - JS optimization
-
 - React optimization
-
 - Ecommerce website
-
 - 3d Cars rendering website (Three.js)
-
 - Socket based multiplayer room creation - tictactoe 
 
 <h3 align="left">Stay tuned for more upcoming projects:</h3>
