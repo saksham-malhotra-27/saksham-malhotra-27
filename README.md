@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif">
 
-- 🌱 I’m currently learning **serverless backends, aws and next**
+- 🌱 I’m currently implementing and learning how to do actual good coding.
 
-- 💬 Ask me about **mern stack, react, javascript, typescript, postgres, prisma, sql, serverless backends**
+- 💬 Ask me about **mern stack, react, javascript, typescript, postgres, prisma, sql, serverless backends, next**
 
 - 📫 How to reach me **saksh.m.malhotra@gmail.com**
 
