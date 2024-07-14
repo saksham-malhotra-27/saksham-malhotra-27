@@ -14,9 +14,12 @@
 
 - JS optimization
 - React optimization
-- Ecommerce website
+- Ecommerce website with AI customization
 - 3d Cars rendering website (Three.js)
-- Socket based multiplayer room creation - tictactoe 
+- Socket based multiplayer room creation games
+- Test taking platform
+- Bloom: Mental workplace for therapists -> chats, blogs, appointment's booking
+  
 
 <h3 align="left">Stay tuned for more upcoming projects:</h3>
 
