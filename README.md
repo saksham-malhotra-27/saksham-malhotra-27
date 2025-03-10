@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saksham Malhotra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif">
+
+<p align="center">
+  <img width="400" alt="coding" src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif">
+</p>
 
 # 💫 About Me:
 + 🎯 Adobe Summer Intern 2025 – Bringing innovation & problem-solving to the next level!
