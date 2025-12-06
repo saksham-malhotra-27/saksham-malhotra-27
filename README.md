@@ -6,6 +6,7 @@
 </p>
 
 # 💫 About Me:
++ Upcoming Amazon SDE intern 26.
 + 🎯 Adobe Summer Intern 2025 – Bringing innovation & problem-solving to the next level!
 + 🏗️ Backend Lead @ Conatus Bharat – Designed a scalable Ed-Tech platform with adaptive learning features.
 + 🏆 CyberCup 4 – 2nd Place Winner – Developed a real-time anomaly detection system using ML, beating 700+ participants.
