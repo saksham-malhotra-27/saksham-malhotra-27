@@ -6,12 +6,12 @@
 </p>
 
 # 💫 About Me:
-+ Upcoming Amazon SDE intern 26.
++ Amazon SDE intern 26.
 + 🎯 Adobe Summer Intern 2025 – Bringing innovation & problem-solving to the next level!
 + 🏗️ Backend Lead @ Conatus Bharat – Designed a scalable Ed-Tech platform with adaptive learning features.
 + 🏆 CyberCup 4 – 2nd Place Winner – Developed a real-time anomaly detection system using ML, beating 700+ participants.
 + 📢 Pitchfest Finalist – Integrated RAG-based personalized chatbots & cloud solutions for early-stage startups.
-+ 🎓 Solved 400+ DSA Problems – Passionate about algorithms & problem-solving.
++ 🎓 Solved 600+ DSA Problems – Passionate about algorithms & problem-solving.
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@communicate.saksham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:communicate.saksham@gmail.com) 
