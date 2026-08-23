@@ -20,7 +20,7 @@ I enjoy building reliable backend systems, AI powered applications, automation t
 
 ## Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@communicate.saksham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:communicate.saksham@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-malhotra-27tech/)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
